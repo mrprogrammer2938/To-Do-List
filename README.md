@@ -14,3 +14,7 @@ cd To-Do-List
 python main.py
 ```
 <br>
+
+[Weblog](sinameysami.blogfa.com)
+[Instagram](https://instagram.com/sina.coder)
+[Github](https://github.com/mrprogrammer2938)
